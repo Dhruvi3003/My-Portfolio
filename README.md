@@ -7,7 +7,6 @@ Welcome to my responsive and interactive personal portfolio website. This site p
 ## 🌐 Live Demo
 
 🔗 [Your Live Portfolio Link](#)  
-*(Replace with your Netlify/Vercel/Render link)*
 
 ---
 
