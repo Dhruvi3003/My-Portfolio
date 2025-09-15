@@ -1,14 +1,42 @@
-# 💼 Responsive Personal Portfolio Website
-## [Watch it on youtube](https://youtu.be/5-_2z-DdWng)
-### 💼 Responsive Personal Portfolio Website
+# 💼 Dhruvi Gohel - Personal Portfolio Website
 
-- Responsive Personal Portfolio Website Design Using HTML CSS & JavaScript
-- Includes a light and dark theme.
-- Contains animations when scrolling.
-- Includes a form to send emails.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+Welcome to my responsive and interactive personal portfolio website. This site presents my skills, projects, education, services, and contact information. It's designed to showcase my journey and capabilities as a **web developer** based in India.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+---
 
-![preview img](/preview.png)
+## 🌐 Live Demo
+
+🔗 [Your Live Portfolio Link](https://dhruvigohelportfolio.netlify.app/)  
+
+---
+
+## 🛠️ Built With
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Remix Icons**
+- **Swiper.js** (project carousel)
+- **EmailJS** (contact form)
+- **Responsive Design**
+
+---
+
+## ✨ Features
+
+- 🎨 Responsive modern design
+- 🧠 Skills categorized by frontend & backend
+- 📄 Resume downloadable directly
+- 💼 Project showcase with demo buttons
+- 🗣️ Contact form with EmailJS integration
+- 🌙 Dark/Light mode toggle
+- 🔗 Social media integration (LinkedIn, GitHub, WhatsApp)
+
+---
+
+To run this project locally:
+
+```bash
+git clone https://github.com/Dhruvi3003/portfolio.git
+cd portfolio
+
