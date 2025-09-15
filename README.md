@@ -6,7 +6,7 @@ Welcome to my responsive and interactive personal portfolio website. This site p
 
 ## 🌐 Live Demo
 
-🔗 [Your Live Portfolio Link](https://dhruvigohelportfolio.netlify.app/)  
+🔗 [Your Live Portfolio Link](https://goheldhruviportfolio.netlify.app/)  
 
 ---
 
